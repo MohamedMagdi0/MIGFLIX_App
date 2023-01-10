@@ -17,7 +17,7 @@ The movie app is a movie browsing app that builds completely on [**React Native*
 
 ```sh
 # Clone the movie app
-git clone https://github.com/MohamedMagdi0/MoviesMobileApp.git
+git clone https://github.com/MohamedMagdi0/MIGFLIX_App.git
 ```
 
 ### 2. Install all dependencies
